@@ -1,2 +1,2 @@
 # edworking-site
-Just a frontend for a small
+Just a frontend for a small site
